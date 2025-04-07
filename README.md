@@ -1,3 +1,6 @@
+# About The Dataset
+The NYC Taxi and Limousine Commission data came from 
+NYC.gov. The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type.
 # Google-Advanced-Data-Analysis-Project
 # Technical Skills I used in this project
 * Programming Languages: Python
